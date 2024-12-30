@@ -1,0 +1,4 @@
+repository "2D Game 2024-12-29_10-59-47/2D Game@18968118413992@cloud"
+  path "/"
+    br "/main"
+    co "/main"
